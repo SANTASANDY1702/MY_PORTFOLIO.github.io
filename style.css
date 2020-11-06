@@ -1,3 +1,54 @@
-.color-to-the-h1{
+h1{
  color: #FFAA00;
 }
+h2 {
+ color: #FF00FF;
+}
+h3 {
+ color: #FFFF00;
+}
+h4 {
+ color: #AAFFAA;
+}
+h5 {
+ color: #00FF00;
+}
+h6 {
+ color: #00FFFF;
+}
+p{
+ color: #FF0000;
+ line-height: 25px;
+}
+img {
+ float: left;
+}
+.right-things{
+ float: right;
+}
+.half-width{
+ width: 50%;
+ float: left;
+}
+.side-img{ 
+ width: 50%;
+ padding: 25%;
+}
+.primary-btn{
+ color: #FFAA00;
+ background-color: 00FF00;
+ padding: 10px 40px 10px 40px;
+ border-radius: 15px; 
+ text-decoration: none;
+}
+.container {
+ padding-left: 5%;
+ display: inline-block;
+}
+.experiences{
+ padding: 30px;
+ margin: 30px;
+ background-color: #FFAAAA;
+ border-radius: 20px;}
+footer{
+ text-align: center ;
